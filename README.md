@@ -8,13 +8,8 @@
  <a href="#licence">Licença</a>
 </p>
 
-<h2 align="center" id=status> 
-	:beginner: Initiated :beginner:
-</h2>
-
 <h2 id=objective>:scroll: Objetivo</h2>
-O objetivo é aprender sobre a sintaxe básica do Kotlin<br>
-e sair do 0 nessa linguagem mobile<br>
+O objetivo é aprender sobre a sintaxe básica do Kotlin <br> e sair do 0 nessa linguagem mobile<br>
 
 <h2 id=installation>:clipboard: Instalação</h2>
 
