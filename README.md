@@ -1,22 +1,22 @@
-<h1 align="center">Unit Testing Course with C#</h1>
+<h1 align="center">Guia da sintaxe Kotlin</h1>
 
 <p align="center">
- <a href="#objective">Objective</a> •
- <a href="#installation">Installation</a> • 
- <a href="#technology">Technology</a> • 
- <a href="#author">Author</a> •
- <a href="#licence">License</a>
+ <a href="#objective">Objetivo</a> •
+ <a href="#installation">Instalação</a> • 
+ <a href="#technology">Tecnologia</a> • 
+ <a href="#author">Autor</a> •
+ <a href="#licence">Licença</a>
 </p>
 
 <h2 align="center" id=status> 
 	:beginner: Initiated :beginner:
 </h2>
 
-<h2 id=objective>:scroll: Objective</h2>
+<h2 id=objective>:scroll: Objetivo</h2>
 O objetivo é aprender sobre a sintaxe básica do Kotlin<br>
 e sair do 0 nessa linguagem mobile<br>
 
-<h2 id=installation>:clipboard: Installation</h2>
+<h2 id=installation>:clipboard: Instalação</h2>
 
 1. Clone o repositório.
 2. Instale o Visual Studio Code.
@@ -32,5 +32,5 @@ Segue as tecnologias utilizadas nesse preojeto:
 
 Desenvolvida por <a href="https://br.linkedin.com/in/larissa-cravo-154b66306" target="_blank">Larissa Cravo</a>
 
-<h2 id=licence>:lock: Licence</h2>
+<h2 id=licence>:lock: Licença</h2>
 <a href="https://github.com/danhpaiva/csharp-unit-test-programada-mente/blob/main/LICENSE" target="_blank">MIT</a>
